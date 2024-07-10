@@ -1,0 +1,11 @@
+{
+  "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "QUESTION1.C": "cpp",
+    "QUESTION2.C": "cpp",
+    "QUESTION3.C": "cpp",
+    "eliminate-dupliacetes.C": "cpp",
+    "stdio.h": "c"
+  }
+}

@@ -1,0 +1,3 @@
+Sum: 25
+Maximum: 9
+Minimum: 1
